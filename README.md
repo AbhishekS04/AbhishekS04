@@ -14,7 +14,7 @@
 <a href="https://twitter.com/@_abhishek2304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_abhishek2304" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-singh-045312292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-singh-045312292/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.abhishek2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.abhishek2310" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishek23main" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek23main" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhishek2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek2310" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
