@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Movie Recommendation System](https://github.com/AbhishekS04/Recommendation-System.git)
 
-- 🌱 I’m currently learning **React,NodeJs,NextJs,Typescript,Tilwind**
+- 🌱 I’m currently learning **React,NodeJs,NextJs,Typescript,Tailwind**
 
 - 💬 Ask me about **React,Typescript**
 
