@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek singh</h1>
 <h3 align="center">Passionate Frontend Developer | 2nd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
 
-- 🔭 I’m currently working on [Codezila](https://github.com/AbhishekS04/codezila)
+- 🔭 I’m currently working on [Codezila]((https://github.com/AbhishekS04/CodeZilamain))
 
 - 🌱 I’m currently learning **React,NodeJs,NextJs,Typescript,Tailwind**
 
