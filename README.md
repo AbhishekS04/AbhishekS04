@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on ([nothing])
+- 🔭 I’m currently working on nothing 🧐
 
 - 🌱 I’m currently learning **React,NodeJs,NextJs,Typescript,Tailwind**
 
