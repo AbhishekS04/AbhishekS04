@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek singh</h1>
-<h3 align="center">Passionate Frontend Developer | 2nd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
+<h3 align="center">Passionate Frontend Developer | 3rd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
 
 <p align="center">
   <img src=https://i.pinimg.com/originals/44/f5/33/44f53383f21f75e42c9464a757c347a7.gif width="150" />
