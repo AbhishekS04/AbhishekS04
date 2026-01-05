@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Frontend Developer | 3rd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
 
 <p align="center">
-  <img src=[https://i.pinimg.com/originals/44/f5/33/44f53383f21f75e42c9464a757c347a7.gif](https://res.cloudinary.com/dap0u41dz/image/upload/v1767642854/8fb5ec42ffa3a0a7e74babbbe0d9c52c_hkybc5.jpg) width="150" />
+  <img src=https://res.cloudinary.com/dap0u41dz/image/upload/v1767642854/8fb5ec42ffa3a0a7e74babbbe0d9c52c_hkybc5.jpg width="150" />
 </p>
 
 
