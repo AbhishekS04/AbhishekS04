@@ -1,109 +1,105 @@
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-
-<h3 align="center">
-Product Engineer | Frontend & Backend Developer | 3rd Year B.Tech CSE Student <br/>
-React, TypeScript, JavaScript Enthusiast | C & C++ | India 🇮🇳
-</h3>
+<h1 align="center">Hi 👋, I'm Abhishek singh</h1>
+<h3 align="center">Passionate Frontend Developer | 3rd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
 
 <p align="center">
-  <img 
-    src="https://res.cloudinary.com/dap0u41dz/image/upload/v1767642854/8fb5ec42ffa3a0a7e74babbbe0d9c52c_hkybc5.jpg"
-    width="150"
-    alt="Abhishek Singh"
-  />
+  <img src=[https://i.pinimg.com/originals/44/f5/33/44f53383f21f75e42c9464a757c347a7.gif](https://res.cloudinary.com/dap0u41dz/image/upload/v1767642854/8fb5ec42ffa3a0a7e74babbbe0d9c52c_hkybc5.jpg) width="150" />
 </p>
 
-<hr/>
 
-<h3>👨‍💻 About Me</h3>
+- 🔭 I’m currently working on nothing 🧐
 
-<ul>
-  <li>🔭 Currently working on <b>building ideas into real products</b></li>
-  <li>🌱 Learning <b>React, Node.js, Next.js, TypeScript, Tailwind CSS</b></li>
-  <li>🧠 Strong in <b>system thinking, UI engineering & product logic</b></li>
-  <li>💬 Ask me about <b>React, TypeScript, Frontend Architecture</b></li>
-  <li>📫 Reach me at <b>abhishek23main@gmail.com</b></li>
-</ul>
+- 🌱 I’m currently learning **React,NodeJs,NextJs,Typescript,Tailwind**
 
-<hr/>
+- 💬 Ask me about **React,Typescript**
 
-<h3>🤝 Connect with me</h3>
+- 📫 How to reach me **abhishek23main@gmail.com**
 
-<p>
-  <a href="https://twitter.com/_abhishek2304" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhishek-singh-045312292/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/_.abhishek2310" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/abhishek2310" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@_abhishek2304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_abhishek2304" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-singh-045312292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-singh-045312292/" height="30" width="40" /></a>
+<a href="https://instagram.com/_.abhishek2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.abhishek2310" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhishek2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek2310" height="30" width="40" /></a>
 </p>
 
-<hr/>
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend / DB</b></td>
-    <td align="center"><b>Tools</b></td>
-    <td align="center"><b>Design</b></td>
-  </tr>
-
-  <tr>
-    <!-- Languages -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
-    </td>
-
-    <!-- Frontend -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/><br/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="35"/>
-    </td>
-
-    <!-- Backend / DB -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/><br/>
-      <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="35" title="Neon"/><br/>
-      <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="35"/><br/>
-      <img src="https://avatars.githubusercontent.com/u/123192126?s=200&v=4" width="35" title="Convex"/>
-    </td>
-
-    <!-- Tools -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
-    </td>
-
-    <!-- Design -->
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="35"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35"/>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<h3 align="center">🚀 Mindset</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 <p align="center">
-I focus on <b>ideation → system design → execution</b>.<br/>
-I build products by combining engineering fundamentals with <b>AI-powered workflows</b>.
+
+  <!-- Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+
+  <!-- Frameworks & Libraries -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  </a>
+
+  <!-- Databases & Hosting -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+
+  <!-- Design Tools -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+
 </p>
