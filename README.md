@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+
 <h3 align="center">
 Product Engineer | Frontend & Backend Developer | 3rd Year B.Tech CSE Student <br/>
 React, TypeScript, JavaScript Enthusiast | C & C++ | India 🇮🇳
@@ -12,20 +13,23 @@ React, TypeScript, JavaScript Enthusiast | C & C++ | India 🇮🇳
   />
 </p>
 
----
+<hr/>
 
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
-- 🔭 Currently working on **building ideas into real products**
-- 🌱 Learning **React, Node.js, Next.js, TypeScript, Tailwind CSS**
-- 🧠 Strong in **system thinking, UI engineering & product logic**
-- 💬 Ask me about **React, TypeScript, Frontend Architecture**
-- 📫 Reach me at **abhishek23main@gmail.com**
+<ul>
+  <li>🔭 Currently working on <b>building ideas into real products</b></li>
+  <li>🌱 Learning <b>React, Node.js, Next.js, TypeScript, Tailwind CSS</b></li>
+  <li>🧠 Strong in <b>system thinking, UI engineering & product logic</b></li>
+  <li>💬 Ask me about <b>React, TypeScript, Frontend Architecture</b></li>
+  <li>📫 Reach me at <b>abhishek23main@gmail.com</b></li>
+</ul>
 
----
+<hr/>
 
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
+<h3>🤝 Connect with me</h3>
+
+<p>
   <a href="https://twitter.com/_abhishek2304" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
@@ -40,66 +44,66 @@ React, TypeScript, JavaScript Enthusiast | C & C++ | India 🇮🇳
   </a>
 </p>
 
----
+<hr/>
 
-<h3 align="center">🛠️ Languages, Frameworks & Tools</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend / DB</b></td>
+    <td align="center"><b>Tools</b></td>
+    <td align="center"><b>Design</b></td>
+  </tr>
 
-<!-- Core Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <tr>
+    <!-- Languages -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
+    </td>
 
-<br/><br/>
+    <!-- Frontend -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35"/><br/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="35"/>
+    </td>
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="40"/>
+    <!-- Backend / DB -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="35" title="Neon"/><br/>
+      <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="35"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/123192126?s=200&v=4" width="35" title="Convex"/>
+    </td>
 
-<br/><br/>
+    <!-- Tools -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
+    </td>
 
-<!-- Backend & Infra -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+    <!-- Design -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="35"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35"/>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<!-- Modern Stack -->
-<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="40" title="Neon DB"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40"/>
-<img src="https://avatars.githubusercontent.com/u/123192126?s=200&v=4" width="40" title="Convex"/>
-
-<br/><br/>
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-
-<br/><br/>
-
-<!-- Design -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-
-</p>
-
----
+<hr/>
 
 <h3 align="center">🚀 Mindset</h3>
 
 <p align="center">
-I focus on <b>ideation → system design → execution</b>.  
-I build products by combining engineering fundamentals with AI-powered workflows.
+I focus on <b>ideation → system design → execution</b>.<br/>
+I build products by combining engineering fundamentals with <b>AI-powered workflows</b>.
 </p>
