@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abhishek singh</h1>
-<h3 align="center">Passionate Frontend Developer | 3rd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
+<div align="center">
+
+# Hi 👋, I'm Abhishek Singh
+
+### Product Engineer | Creative Developer | React, Next.js, TypeScript Specialist | Building Premium Web Experiences
+
+</div>
 
 <p align="center">
   <img src=https://res.cloudinary.com/dap0u41dz/image/upload/v1767642854/8fb5ec42ffa3a0a7e74babbbe0d9c52c_hkybc5.jpg width="150" />
