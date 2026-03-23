@@ -6,9 +6,9 @@
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src=https://ik.imagekit.io/rwpr7hjrb/elvisuallv2_14041214_005302718.mp4?updatedAt=1772565852008 width="150" />
-</p>
+</p> -->
 
 
 - 🔭 I’m currently working on something 🧐
