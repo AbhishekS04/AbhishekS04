@@ -8,12 +8,14 @@
 
 <br/>
 
-<a href="https://abhisheksingh.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://abhisheksingh.tech" target="_blank">
+  <img src="https://cloud-snapp.vercel.app/api/cdn/4a6aad36005aec90dbd9b18976c63664.jpg?fmt=avif" width="20"/>
+</a>
 <a href="https://linkedin.com/in/abhishek-singh-045312292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/_abhishek2304" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="https://instagram.com/abhi3hekk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:abhishek23main@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=AbhishekS04&style=flat-square&color=555&label=visitors"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=AbhishekS04&style=flat-square&color=555555&label=visitors"/> -->
 
 </div>
 
