@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://abhisheksingh.tech" target="_blank">
-  <img src="https://cloud-snapp.vercel.app/api/cdn/4a6aad36005aec90dbd9b18976c63664.jpg?fmt=avif" width="20"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAIAAACQKrqGAAACKklEQVR42gXBy0sVURgA8HPmnDPnMXOvXs3EHmpCIkplixaWECGEPSBMeqySItpFUa7ctWkTtIm2BS36A3osIiLCdkGLkAhfXLTsXm/eudN1Zq5nZr7P34+OXJxxGKNMUMaowygliIRSioiISBARABGRoCNcVxmtjfY94xuljfEKnjJaGS21lFpJo12tXFeyvtExz6i2grHcNUa2e0pKV0mhjdZaSSkF50Iwzh169vb9om8slyf7O4IkW2q0PMEpYlDbjMIG10a178kRrbXk6t2Hk/fmPr17tVP+vP79zYuXz2efPD1/816JkJIgBULGp65dmXs8NfuIHRs/dXm059yJgdTueEaWeOpA6tstm4ama3/OadSoHxgclpyyW9MTM6cHAEkSRa2oCVlW+x9B0oxr1SiFDhr7fSO9A4dSAD4x1E4gTcKEOQ5BSJKEUlLeCCqVv78jXQQ4PjLEnHxsL3V6ZBL8q7W2w1YzDINg+c9muRq2dNtiHZ08zQFqq6tHS3D9iOALK5XuTt9obYwuuk6XwiDONhBF7nR3KQLq29uvwx1YLfWzG2cGcyDW5lEU/yjXw9guLyytfJi3jBzs7awHcUbx55fF9/NL9NmD6W3iVhKyryCawKrV+vLrj/pwdwiUlIpbaxu+1pTRyKZ08tIF6QohBDrMKLH+a9GulZk2YSvNKdMUUiRpnlsAHjZjLgSlhHHewKwZhJADs9bm4LI8JU6cASLsAOwC2BETJs1oy60AAAAASUVORK5CYII=&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/abhishek-singh-045312292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/_abhishek2304" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
